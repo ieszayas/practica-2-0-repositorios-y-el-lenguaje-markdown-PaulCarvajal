@@ -1,16 +1,3 @@
-### Requerimientos formales
-
-Deberá tener al menos los siguientes apartados:
-
- - Título principal
- - Títulos secundarios: descripción, instalación, uso, características, tablas, listas, etc.
- - Una lista de tareas pendientes
- - Una tabla con al menos dos columnas y dos filas
- - Al menos una imagen
- - Un bloque de código formateado
- - Enlaces de webs externas
-
-
  # PROYECTO
 
  ## APLICATIVO GIMNASIO 
@@ -35,9 +22,9 @@ Por otro lado, se propone otorgar y facilitar al administrador designado tareas 
 https://miro.com/app/board/uXjVKQhUIz8=/?share_link_id=70963753547
 
 ### CONTENIDO ADICIONAL IMPLEMENTADO
-|Enumerados | |Se implementaron para tener días fijos en los días de la semana|
-| ---------- | |-------------|
-| Etiquetas | | Se utilizan cuando se trabajan con bucles anidados para controlar el flujo de ejecucion|
+| Enumerados | | Se implementaron para tener días fijos en los días de la semana|
+|------------| |--------------|
+| Etiquetas  | | Se utilizan cuando se trabajan con bucles anidados para controlar el flujo de ejecucion|
 
 **Ejemplo de como utilizar las etiquetas**
 ```
