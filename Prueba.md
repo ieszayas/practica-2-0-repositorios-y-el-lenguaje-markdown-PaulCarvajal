@@ -22,12 +22,12 @@ Por otro lado, se propone otorgar y facilitar al administrador designado tareas 
 https://miro.com/app/board/uXjVKQhUIz8=/?share_link_id=70963753547
 
 ### CONTENIDO ADICIONAL IMPLEMENTADO
-| Enumerados | | Se implementaron para tener días fijos en los días de la semana|
-|------------| |--------------|
-| Etiquetas  | | Se utilizan cuando se trabajan con bucles anidados para controlar el flujo de ejecucion|
+| Enumerados | Se implementaron para tener días fijos en los días de la semana|
+|------------| --------------|
+| Etiquetas  | Se utilizan cuando se trabajan con bucles anidados para controlar el flujo de ejecucion|
 
 **Ejemplo de como utilizar las etiquetas**
-```
+``` java
 etiqueta: for (int i = 0; i < 3; i++) {
     for (int j = 0; j < 3; j++) {
         if (i == 1 && j == 1) {
